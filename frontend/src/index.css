@@ -1,1 +1,4 @@
 @import "tailwindcss";
+@import "../node_modules/flowbite/src/themes/default.css";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
