@@ -1,4 +1,4 @@
-import { ListaTrabajadores } from './components/ListaTrabajadores';
+import ListaTrabajadores from "./components/ListaTrabajadores";
 
 function App() {
   return (
